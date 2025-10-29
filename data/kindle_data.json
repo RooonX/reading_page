@@ -1,73 +1,44 @@
 {
   "days_read": [
-    "2024-06-02",
-    "2024-06-03",
-    "2024-06-04",
-    "2025-10-21",
     "2025-10-23",
     "2025-10-24",
-    "2025-10-25",
-    "2025-10-26",
-    "2025-10-27",
-    "2025-10-28"
+    "2025-10-27"
   ],
   "current_daily_streak": {
-    "duration": 6,
-    "readingMarketplace": 1,
-    "utcEndTime": "2025-10-28T07:00:00.000Z",
-    "start": "2025-10-23T00:00:00.000Z",
-    "end": "2025-10-28T00:00:00.000Z",
-    "ttl": 1761700836
+    "duration": 0
   },
   "longest_daily_streak": {
-    "duration": 6,
+    "duration": 2,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-10-28T07:00:00.000Z",
+    "utcEndTime": "2025-10-24T07:00:00.000Z",
     "start": "2025-10-23T00:00:00.000Z",
-    "end": "2025-10-28T00:00:00.000Z"
+    "end": "2025-10-24T00:00:00.000Z"
   },
   "current_weekly_streak": {
     "duration": 2,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-10-28T07:00:00.000Z",
-    "start": "2025-10-21T00:00:00.000Z",
-    "end": "2025-10-28T00:00:00.000Z",
-    "ttl": 1761700836
+    "utcEndTime": "2025-10-27T07:00:00.000Z",
+    "start": "2025-10-23T00:00:00.000Z",
+    "end": "2025-10-27T00:00:00.000Z",
+    "ttl": 1761737092
   },
   "longest_weekly_streak": {
     "duration": 2,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-10-28T07:00:00.000Z",
-    "start": "2025-10-21T00:00:00.000Z",
-    "end": "2025-10-28T00:00:00.000Z"
+    "utcEndTime": "2025-10-27T07:00:00.000Z",
+    "start": "2025-10-23T00:00:00.000Z",
+    "end": "2025-10-27T00:00:00.000Z"
   },
-  "current_weekly_streak_state": "record_streak_broken",
+  "current_weekly_streak_state": "active",
   "goal_info": {
     "goals": {},
-    "titles_read": [
-      {
-        "asin": "89B965055B1648CEA71827F9B02EF1D4",
-        "read_event_id": "3b37f66c-fa1b-484e-92b8-ab7a6fd5ee0f",
-        "date_read": "2024-06-04T15:51:42Z",
-        "content_type": "PDOC",
-        "source_origin": "KINDLE",
-        "book_uri": "UNKNOWN"
-      },
-      {
-        "asin": "F8FDD787C38F44A0A051C299191E8765",
-        "read_event_id": "904b4121-5a45-46d0-8e1b-f6dd7c820ed0",
-        "date_read": "2024-06-04T07:05:45Z",
-        "content_type": "PDOC",
-        "source_origin": "KINDLE",
-        "book_uri": "UNKNOWN"
-      }
-    ],
+    "titles_read": [],
     "is_backfill_completed": true
   },
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 64,
+    "daysLeftInCurrentChallenge": 63,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 1,
     "achievementsDisplayAttributes": [
