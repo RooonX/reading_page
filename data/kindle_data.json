@@ -2,10 +2,16 @@
   "days_read": [
     "2025-10-23",
     "2025-10-24",
-    "2025-10-27"
+    "2025-10-27",
+    "2025-10-29"
   ],
   "current_daily_streak": {
-    "duration": 0
+    "duration": 1,
+    "readingMarketplace": 1,
+    "utcEndTime": "2025-10-29T07:00:00.000Z",
+    "start": "2025-10-29T00:00:00.000Z",
+    "end": "2025-10-29T00:00:00.000Z",
+    "ttl": 1761795360
   },
   "longest_daily_streak": {
     "duration": 2,
@@ -17,17 +23,17 @@
   "current_weekly_streak": {
     "duration": 2,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-10-27T07:00:00.000Z",
+    "utcEndTime": "2025-10-29T07:00:00.000Z",
     "start": "2025-10-23T00:00:00.000Z",
-    "end": "2025-10-27T00:00:00.000Z",
-    "ttl": 1761737092
+    "end": "2025-10-29T00:00:00.000Z",
+    "ttl": 1761795360
   },
   "longest_weekly_streak": {
     "duration": 2,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-10-27T07:00:00.000Z",
+    "utcEndTime": "2025-10-29T07:00:00.000Z",
     "start": "2025-10-23T00:00:00.000Z",
-    "end": "2025-10-27T00:00:00.000Z"
+    "end": "2025-10-29T00:00:00.000Z"
   },
   "current_weekly_streak_state": "active",
   "goal_info": {
