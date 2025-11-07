@@ -3,32 +3,39 @@
     "2025-10-23",
     "2025-10-24",
     "2025-10-27",
-    "2025-10-29"
+    "2025-10-29",
+    "2025-11-05",
+    "2025-11-06"
   ],
   "current_daily_streak": {
-    "duration": 0
+    "duration": 2,
+    "readingMarketplace": 1,
+    "utcEndTime": "2025-11-06T08:00:00.000Z",
+    "start": "2025-11-05T00:00:00.000Z",
+    "end": "2025-11-06T00:00:00.000Z",
+    "ttl": 1762486495
   },
   "longest_daily_streak": {
     "duration": 2,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-10-24T07:00:00.000Z",
-    "start": "2025-10-23T00:00:00.000Z",
-    "end": "2025-10-24T00:00:00.000Z"
+    "utcEndTime": "2025-11-06T08:00:00.000Z",
+    "start": "2025-11-05T00:00:00.000Z",
+    "end": "2025-11-06T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 2,
+    "duration": 3,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-10-29T07:00:00.000Z",
+    "utcEndTime": "2025-11-06T08:00:00.000Z",
     "start": "2025-10-23T00:00:00.000Z",
-    "end": "2025-10-29T00:00:00.000Z",
-    "ttl": 1762400484
+    "end": "2025-11-06T00:00:00.000Z",
+    "ttl": 1762486495
   },
   "longest_weekly_streak": {
-    "duration": 2,
+    "duration": 3,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-10-29T07:00:00.000Z",
+    "utcEndTime": "2025-11-06T08:00:00.000Z",
     "start": "2025-10-23T00:00:00.000Z",
-    "end": "2025-10-29T00:00:00.000Z"
+    "end": "2025-11-06T00:00:00.000Z"
   },
   "current_weekly_streak_state": "active",
   "goal_info": {
@@ -39,13 +46,13 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 56,
+    "daysLeftInCurrentChallenge": 55,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 1,
     "achievementsDisplayAttributes": [
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_HeadStart_09b4f501-d681-35c1-a3b9-5daf29329383.png",
-        "quantity": 1,
+        "quantity": 2,
         "title": "Head Start",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": true
