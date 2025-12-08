@@ -11,10 +11,16 @@
     "2025-11-22",
     "2025-11-23",
     "2025-11-24",
-    "2025-11-25"
+    "2025-11-25",
+    "2025-12-06"
   ],
   "current_daily_streak": {
-    "duration": 0
+    "duration": 1,
+    "readingMarketplace": 1,
+    "utcEndTime": "2025-12-06T08:00:00.000Z",
+    "start": "2025-12-06T00:00:00.000Z",
+    "end": "2025-12-06T00:00:00.000Z",
+    "ttl": 1765158876
   },
   "longest_daily_streak": {
     "duration": 4,
@@ -24,21 +30,21 @@
     "end": "2025-11-25T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 2,
+    "duration": 3,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-25T08:00:00.000Z",
+    "utcEndTime": "2025-12-06T08:00:00.000Z",
     "start": "2025-11-19T00:00:00.000Z",
-    "end": "2025-11-25T00:00:00.000Z",
-    "ttl": 1765072940
+    "end": "2025-12-06T00:00:00.000Z",
+    "ttl": 1765158876
   },
   "longest_weekly_streak": {
     "duration": 3,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-06T08:00:00.000Z",
-    "start": "2025-10-23T00:00:00.000Z",
-    "end": "2025-11-06T00:00:00.000Z"
+    "utcEndTime": "2025-12-06T08:00:00.000Z",
+    "start": "2025-11-19T00:00:00.000Z",
+    "end": "2025-12-06T00:00:00.000Z"
   },
-  "current_weekly_streak_state": "at_risk",
+  "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
     "goals": {},
     "titles_read": [
@@ -65,16 +71,16 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "C",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 25,
+    "daysLeftInCurrentChallenge": 24,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 3,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_Bookworm_7c2e8900-ee16-3097-a931-40fd2065deee.png",
-        "quantity": 1,
-        "title": "Bookworm",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_HeadStart_09b4f501-d681-35c1-a3b9-5daf29329383.png",
+        "quantity": 3,
+        "title": "Head Start",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_GoldReader_d1885062-9926-390f-bc57-5e95018fe6ea.png",
