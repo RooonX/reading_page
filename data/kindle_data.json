@@ -12,7 +12,10 @@
     "2025-11-23",
     "2025-11-24",
     "2025-11-25",
+    "2025-11-26",
     "2025-12-06",
+    "2025-12-13",
+    "2025-12-31",
     "2026-01-04",
     "2026-01-05",
     "2026-01-09",
@@ -22,42 +25,51 @@
     "2026-01-18",
     "2026-01-19",
     "2026-02-23",
-    "2026-02-25"
+    "2026-02-25",
+    "2026-02-26"
   ],
   "current_daily_streak": {
-    "duration": 1,
+    "duration": 2,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-25T08:00:00.000Z",
+    "utcEndTime": "2026-02-26T08:00:00.000Z",
     "start": "2026-02-25T00:00:00.000Z",
-    "end": "2026-02-25T00:00:00.000Z",
-    "ttl": 1772072877
+    "end": "2026-02-26T00:00:00.000Z",
+    "ttl": 1772159203
   },
   "longest_daily_streak": {
-    "duration": 4,
+    "duration": 5,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-25T08:00:00.000Z",
+    "utcEndTime": "2025-11-26T08:00:00.000Z",
     "start": "2025-11-22T00:00:00.000Z",
-    "end": "2025-11-25T00:00:00.000Z"
+    "end": "2025-11-26T00:00:00.000Z"
   },
   "current_weekly_streak": {
     "duration": 1,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-25T08:00:00.000Z",
+    "utcEndTime": "2026-02-26T08:00:00.000Z",
     "start": "2026-02-23T00:00:00.000Z",
-    "end": "2026-02-25T00:00:00.000Z",
-    "ttl": 1772072877
+    "end": "2026-02-26T00:00:00.000Z",
+    "ttl": 1772159203
   },
   "longest_weekly_streak": {
-    "duration": 3,
+    "duration": 4,
     "readingMarketplace": 1,
     "utcEndTime": "2026-01-19T08:00:00.000Z",
-    "start": "2026-01-04T00:00:00.000Z",
+    "start": "2025-12-31T00:00:00.000Z",
     "end": "2026-01-19T00:00:00.000Z"
   },
-  "current_weekly_streak_state": "approaching_record_streak",
+  "current_weekly_streak_state": "active",
   "goal_info": {
     "goals": {},
     "titles_read": [
+      {
+        "asin": "DPDUDOIM2AYKT3JK5WALZCMEI43TNVTC",
+        "read_event_id": "3f7c37fc-0c5c-4cac-b8f5-3be259f76433",
+        "date_read": "2026-02-26T09:24:13-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "1A285B3EE5F7491BADDB698F49F49E8E",
         "read_event_id": "6d7789a2-109d-4c2e-b6cb-24b566d6adb3",
@@ -81,16 +93,16 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 34,
+    "daysLeftInCurrentChallenge": 33,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 1,
+    "totalEarnedAchievements": 3,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_HeadStart_896ce0f2-38a8-30c7-b3ac-0715b1a782ba.png",
-        "quantity": 2,
-        "title": "Head Start",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_NobleSteed_02047b0f-8c16-44e2-be13-c7ddabc7df5f.png",
+        "quantity": 1,
+        "title": "Noble Steed",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": true
+        "hasLevel": false
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_GoldReader_b382f6a0-5c4b-382c-95dd-6b9b05732870.png",
@@ -107,9 +119,9 @@
         "hasLevel": false
       },
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_Bookish_6a55c846-0c52-3449-a1e7-55d7fb6cdef4.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_Bibliophile_6b75e39a-c235-379a-bb31-7de2b60acb90.png",
         "quantity": 0,
-        "title": "Bookish",
+        "title": "Bibliophile",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       }
