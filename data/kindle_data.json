@@ -26,15 +26,16 @@
     "2026-01-19",
     "2026-02-23",
     "2026-02-25",
-    "2026-02-26"
+    "2026-02-26",
+    "2026-02-27"
   ],
   "current_daily_streak": {
-    "duration": 2,
+    "duration": 3,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-26T08:00:00.000Z",
+    "utcEndTime": "2026-02-27T08:00:00.000Z",
     "start": "2026-02-25T00:00:00.000Z",
-    "end": "2026-02-26T00:00:00.000Z",
-    "ttl": 1772159203
+    "end": "2026-02-27T00:00:00.000Z",
+    "ttl": 1772244604
   },
   "longest_daily_streak": {
     "duration": 5,
@@ -46,10 +47,10 @@
   "current_weekly_streak": {
     "duration": 1,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-26T08:00:00.000Z",
+    "utcEndTime": "2026-02-27T08:00:00.000Z",
     "start": "2026-02-23T00:00:00.000Z",
-    "end": "2026-02-26T00:00:00.000Z",
-    "ttl": 1772159203
+    "end": "2026-02-27T00:00:00.000Z",
+    "ttl": 1772244604
   },
   "longest_weekly_streak": {
     "duration": 4,
@@ -60,7 +61,13 @@
   },
   "current_weekly_streak_state": "active",
   "goal_info": {
-    "goals": {},
+    "goals": {
+      "TITLES_READ_YEAR_2026": {
+        "target_goal": 10,
+        "has_been_congratulated": false,
+        "source_origin": "KINDLE"
+      }
+    },
     "titles_read": [
       {
         "asin": "DPDUDOIM2AYKT3JK5WALZCMEI43TNVTC",
@@ -93,7 +100,7 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 33,
+    "daysLeftInCurrentChallenge": 32,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 3,
     "achievementsDisplayAttributes": [
