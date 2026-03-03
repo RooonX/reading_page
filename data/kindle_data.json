@@ -28,30 +28,32 @@
     "2026-02-25",
     "2026-02-26",
     "2026-02-27",
-    "2026-02-28"
+    "2026-02-28",
+    "2026-03-01",
+    "2026-03-02"
   ],
   "current_daily_streak": {
-    "duration": 4,
+    "duration": 6,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-28T08:00:00.000Z",
+    "utcEndTime": "2026-03-02T08:00:00.000Z",
     "start": "2026-02-25T00:00:00.000Z",
-    "end": "2026-02-28T00:00:00.000Z",
-    "ttl": 1772418598
+    "end": "2026-03-02T00:00:00.000Z",
+    "ttl": 1772505148
   },
   "longest_daily_streak": {
-    "duration": 5,
+    "duration": 6,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-26T08:00:00.000Z",
-    "start": "2025-11-22T00:00:00.000Z",
-    "end": "2025-11-26T00:00:00.000Z"
+    "utcEndTime": "2026-03-02T08:00:00.000Z",
+    "start": "2026-02-25T00:00:00.000Z",
+    "end": "2026-03-02T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 1,
+    "duration": 2,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-28T08:00:00.000Z",
+    "utcEndTime": "2026-03-02T08:00:00.000Z",
     "start": "2026-02-23T00:00:00.000Z",
-    "end": "2026-02-28T00:00:00.000Z",
-    "ttl": 1772418598
+    "end": "2026-03-02T00:00:00.000Z",
+    "ttl": 1772505148
   },
   "longest_weekly_streak": {
     "duration": 4,
@@ -60,7 +62,7 @@
     "start": "2025-12-31T00:00:00.000Z",
     "end": "2026-01-19T00:00:00.000Z"
   },
-  "current_weekly_streak_state": "active",
+  "current_weekly_streak_state": "approaching_record_streak",
   "goal_info": {
     "goals": {
       "TITLES_READ_YEAR_2026": {
@@ -70,6 +72,14 @@
       }
     },
     "titles_read": [
+      {
+        "asin": "YQANQ2PYZDOGRCRLWIVAODXIYNMZ7B74",
+        "read_event_id": "ce5e09bf-6df1-4d0c-b180-8da42a086296",
+        "date_read": "2026-03-02T04:46:53-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "LBY42OEOYWZ5DFRYJCWQRT3WBGEFADJ6",
         "read_event_id": "b50e5356-8dfe-4206-a783-1cd3b0ac4416",
@@ -117,14 +127,14 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 30,
+    "daysLeftInCurrentChallenge": 29,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 6,
+    "totalEarnedAchievements": 7,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_Bibliophile_064d23f7-c42a-31c8-bc83-6e61284b1cfe.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_BronzeReader_135d1a59-dd53-3262-9a3d-f97eb0adb5df.png",
         "quantity": 1,
-        "title": "Bibliophile",
+        "title": "Bronze Reader",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
